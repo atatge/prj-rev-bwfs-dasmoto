@@ -4,7 +4,6 @@ body {
 }
 
 .header h1 {
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -13,7 +12,6 @@ body {
 }
 
 h2 {
-  font-family: Helvetica;
   font-size: 32px;
   fonrt-weight: bold;
   color: white;
@@ -32,7 +30,6 @@ h2 {
 }
 
 .price {
-  font-family: Helvetica;
   font-weight: bold;
   color: blue;
   }
